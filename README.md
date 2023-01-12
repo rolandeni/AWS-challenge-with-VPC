@@ -7,6 +7,7 @@
 * ### To create a load balancer for the instances.
 * ### To install Nginx on the server and configure Nginx for PHP files.
 ## Requirements
+### Add ASG to the target group.
 + internet connection
 + AWS account 
 + Basic knowlege of instance.
@@ -303,3 +304,5 @@ i.e ansible-playbook -i inventory ansible.yml
 + then inpute load balancer DNS.
 + save the record
 + now connect any domain name you have with the hosted zone created.
+# Step 8
+### 8. To add ASG (Auto scaling Group)
