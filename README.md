@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Holiday Challenge
 
 ![vpc1](images/chrismas.jpg)
