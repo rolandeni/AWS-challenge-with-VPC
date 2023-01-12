@@ -1,4 +1,6 @@
 # Holiday Challenge
+
+![vpc1](images/chrismas.jpg)
 * ### To Create private instances with no public ip address
 * ### To create a VPC,route tables and subnets for those instances
 * ### To create a load balancer for the instances.
