@@ -6,13 +6,13 @@
 * ### To create a VPC,route tables and subnets for those instances
 * ### To create a load balancer for the instances.
 * ### To install Nginx on the server and configure Nginx for PHP files.
+* ### Add ASG to the target group.
+
 ## Requirements
-### Add ASG to the target group.
 + internet connection
 + AWS account 
 + Basic knowlege of instance.
 + Basic knowlege of Ansible. 
-
 
 ### To carry out these tasks i will breakdown the process into simple steps.
 # Step 1
