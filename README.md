@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Holiday Challenge
 
 ![vpc1](images/chrismas.jpg)
@@ -248,4 +249,10 @@ i.e ansible-playbook -i inventory ansible.yml
 
 
 
+=======
+# Holiday-project
+## Using ansible to install and configure Nginx.
+## Created 3 servers on aws and placed them behind a Load Balancer.
+## Create a private VPC and then made the instance private without having a public IP.
+>>>>>>> 76fcf5e33e0b3e257039d14c7b0dd932fa0ec37c
 
